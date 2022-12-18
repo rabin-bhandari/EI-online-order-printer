@@ -22,6 +22,28 @@
         "qty": 1,
         "total": "2.95",
         "order": 11
+    },
+{
+        "id": 11,
+        "item_id": 259,
+        "item_name": "Timuri Chips",
+        "price": "2.95",
+        "variety_price": "0.00",
+        "variety_name": "",
+        "qty": 1,
+        "total": "2.95",
+        "order": 11
+    },
+{
+        "id": 11,
+        "item_id": 259,
+        "item_name": "Timuri Chips",
+        "price": "2.95",
+        "variety_price": "0.00",
+        "variety_name": "",
+        "qty": 1,
+        "total": "2.95",
+        "order": 11
     }],
     "delivery_address": null,
     "delivery_charge": "0.00",

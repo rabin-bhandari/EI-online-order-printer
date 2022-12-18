@@ -1,0 +1,20 @@
+
+# Superclass
+
+class Order:
+    def __init__(self, name, number, order_type, order_items, is_Paid, is_Prerorder, preorder_date, preorder_time, discount_code, discount_amount, notes, delivery_address):
+        self.name = order.name.title()
+        self.number = order.mobile
+        self.order_type = order.order_type.title()
+        self.order_items = order_items_helper(order.order_items)
+        self.is_Paid = order.payment_status.title()
+        self.is_Preorder = order.preorder
+        self.preorder_date = order.datetime
+        self.preorder_time = order.datetime
+        self.discount_code = order.discount_code
+        self.discount_amount = order.discount_amount
+        self.
+        self.notes = order.notes
+        self.
+        self.delivery_address = order.delivery_address
+
